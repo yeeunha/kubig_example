@@ -9,3 +9,5 @@ def triplesum(a,b):
 
 def summinussquare(a,b):
     return (a+b)**2-1
+def minussquare(a,b):
+    return a**2 - b**2
